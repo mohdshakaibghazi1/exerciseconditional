@@ -1,0 +1,8 @@
+C:\Users\moham\source\repos\EnumEx\EnumEx\bin\Debug\EnumEx.exe.config
+C:\Users\moham\source\repos\EnumEx\EnumEx\bin\Debug\EnumEx.exe
+C:\Users\moham\source\repos\EnumEx\EnumEx\bin\Debug\EnumEx.pdb
+C:\Users\moham\source\repos\EnumEx\EnumEx\obj\Debug\EnumEx.csproj.AssemblyReference.cache
+C:\Users\moham\source\repos\EnumEx\EnumEx\obj\Debug\EnumEx.csproj.SuggestedBindingRedirects.cache
+C:\Users\moham\source\repos\EnumEx\EnumEx\obj\Debug\EnumEx.csproj.CoreCompileInputs.cache
+C:\Users\moham\source\repos\EnumEx\EnumEx\obj\Debug\EnumEx.exe
+C:\Users\moham\source\repos\EnumEx\EnumEx\obj\Debug\EnumEx.pdb
